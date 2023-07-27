@@ -1,4 +1,4 @@
-# asymptomatic_transmission_hk
+# Dataset and Code for 'Reconstructing household transmission dynamics to estimate infectiousness of asymptomatic influenza virus infections'
 
 The data and code for the paper 'Reconstructing household transmission dynamics to estimate infectiousness of asymptomatic influenza virus infections'
 
